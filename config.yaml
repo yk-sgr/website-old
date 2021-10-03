@@ -26,6 +26,10 @@ params:
     enabled: true
     title: Hey, I'm Yannick!
     subtitle: I'm a passionate software engineer.
+    imageUrl: logo.png
+    imageTitle: Yannick Seeger Logo
+    imageWidth: 120
+    imageHeight: 120
   socialIcons:
     - name: github
       url: https://github.com/yk-sgr
