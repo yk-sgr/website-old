@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://yseeger.me/blog/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/tags/go/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/tags/golang/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/blog/how-i-configure-my-go-applications/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/tags/programming/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/tags/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/</loc>
+    <lastmod>2020-11-11T10:11:24+02:00</lastmod>
+  </url><url>
+    <loc>https://yseeger.me/categories/</loc>
+  </url><url>
+    <loc>https://yseeger.me/search/</loc>
+  </url>
+</urlset>

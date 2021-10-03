@@ -1,0 +1,56 @@
+baseURL: 'https://yseeger.me'
+languageCode: 'en-us'
+title: 'Yannick Seeger'
+
+theme: 'papermod'
+
+markup:
+  highlight:
+    style: 'dracula'
+
+params:
+  env: production
+  author: Yannick Seeger
+  description: The personal website of Yannick Seeger and the home of his programming blog.
+  keywords:
+    - programming
+    - software
+    - golang
+    - flutter
+    - dart
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  profileMode:
+    enabled: true
+    title: Hey, I'm Yannick!
+    subtitle: I'm a passionate software engineer.
+  socialIcons:
+    - name: github
+      url: https://github.com/yk-sgr
+    - name: gitlab
+      url: https://gitlab.com/yk.sgr
+    - name: linkedin
+      url: https://www.linkedin.com/in/yannick-seeger-887b68183/
+    - name: twitter
+      url: https://twitter.com/ycksgr
+    - name: medium
+      url: https://yksgr.medium.com/
+    - name: dev
+      url: https://dev.to/yksgr
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog
+    - identifier: search
+      name: Search
+      url: /search
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
