@@ -6,7 +6,16 @@
     <description>Recent content in flutter on Yannick Seeger</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Aug 2021 18:00:24 +0200</lastBuildDate><atom:link href="https://yseeger.me/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Oct 2021 16:30:24 +0200</lastBuildDate><atom:link href="https://yseeger.me/tags/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I configure my Flutter Applications</title>
+      <link>https://yseeger.me/blog/how-i-configure-my-flutter-applications/</link>
+      <pubDate>Mon, 04 Oct 2021 16:30:24 +0200</pubDate>
+      
+      <guid>https://yseeger.me/blog/how-i-configure-my-flutter-applications/</guid>
+      <description>How to configure your Flutter Application</description>
+    </item>
+    
     <item>
       <title>How I reduced Flutter boilerplate code</title>
       <link>https://yseeger.me/blog/how-i-reduced-flutter-boilerplate-code/</link>
