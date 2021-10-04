@@ -3,7 +3,7 @@ author: Yannick Seeger
 title: "How I reduced Flutter boilerplate code"
 date: 2021-08-21T18:00:24+02:00
 description: How to reduce boilerplate code in your flutter app.
-tags: ["programming", "golang", "go"]
+tags: ["programming", "flutter"]
 summary: How to reduce boilerplate code in your flutter app.
 ---
 
