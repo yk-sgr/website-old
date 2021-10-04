@@ -5,9 +5,6 @@ date: 2020-11-11T10:11:24+02:00
 description: How to configure your Go Application
 tags: ["programming", "golang", "go"]
 summary: How to configure your Go Application.
-cover:
-    image: "https://miro.medium.com/max/1400/1*g4ECiJ5gMg9IuRZ4CY1CTA.png"
-    alt: "Go Logo"
 ---
 
 In this article I will show you what I think is the best way to configure your Go Application.

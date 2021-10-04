@@ -22,6 +22,10 @@ params:
   ShowReadingTime: true
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
+  editPost:
+        URL: "https://github.com/yk-sgr/website/tree/master/content"
+        Text: "Suggest Changes"
+        appendFilePath: true
   profileMode:
     enabled: true
     title: Hey, I'm Yannick!
