@@ -10,7 +10,7 @@
 <meta name="description" content="The personal website of Yannick Seeger and the home of his programming blog.">
 <meta name="author" content="Yannick Seeger">
 <link rel="canonical" href="https://yseeger.me/" />
-<link crossorigin="anonymous" href="/assets/css/stylesheet.min.5e2b4101351c21e906f398ae96901791830f58d430f96f2659dab7eaef7b3cb7.css" integrity="sha256-XitBATUcIekG85iulpAXkYMPWNQw&#43;W8mWdq36u97PLc=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.min.c88963fe2d79462000fd0fb1b3737783c32855d340583e4523343f8735c787f0.css" integrity="sha256-yIlj/i15RiAA/Q&#43;xs3N3g8MoVdNAWD5FIzQ/hzXHh/A=" rel="preload stylesheet" as="style">
 <link rel="preload" href="logo.png" as="image">
 <link rel="icon" href="https://yseeger.me/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://yseeger.me/favicon-16x16.png">
@@ -19,7 +19,7 @@
 <link rel="mask-icon" href="https://yseeger.me/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<meta name="generator" content="Hugo 0.88.1" />
+<meta name="generator" content="Hugo 0.91.2" />
 <link rel="alternate" type="application/rss+xml" href="https://yseeger.me/index.xml">
 <link rel="alternate" type="application/json" href="https://yseeger.me/index.json">
 <noscript>
@@ -210,9 +210,11 @@
 
 <script>
     let menu = document.getElementById('menu')
-    menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-    menu.onscroll = function () {
-        localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
     }
 
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {

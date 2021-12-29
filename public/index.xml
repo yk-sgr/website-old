@@ -8,6 +8,28 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Oct 2021 16:30:24 +0200</lastBuildDate><atom:link href="https://yseeger.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Imprint</title>
+      <link>https://yseeger.me/imprint/</link>
+      <pubDate>Wed, 29 Dec 2021 15:53:46 +0100</pubDate>
+      
+      <guid>https://yseeger.me/imprint/</guid>
+      <description>Angaben gemäß § 5 TMG Yannick Seeger
+Dittrichplatz 6
+08523 Plauen
+Kontakt Telefon: 017647343738
+E-Mail: yannick.sgr@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://yseeger.me/privacy_policy/</link>
+      <pubDate>Wed, 29 Dec 2021 15:53:46 +0100</pubDate>
+      
+      <guid>https://yseeger.me/privacy_policy/</guid>
+      <description>1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung. Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+    </item>
+    
+    <item>
       <title>How I configure my Flutter Applications</title>
       <link>https://yseeger.me/blog/how-i-configure-my-flutter-applications/</link>
       <pubDate>Mon, 04 Oct 2021 16:30:24 +0200</pubDate>
